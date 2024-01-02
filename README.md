@@ -7,12 +7,3 @@ Customer Behavior Insights
 Product Performance Evaluation
 Market Trends and Seasonal Analysis
 Geographic Analysis
-**Heart Disease Dataset Analysis**
-This project involves the analysis of a Heart Disease dataset, aiming to gain insights into factors contributing to heart health. 
-The dataset includes information such as patient demographics, medical parameters, and the presence or absence of heart disease.
-The primary objective of this project is to perform exploratory data analysis (EDA) and build predictive models to identify patterns and potential risk factors associated with heart disease.
-Data Exploration
-Preprocessing and Cleaning
-Exploratory Data Analysis (EDA)
-Model Development
-Feature Importance Analysis
